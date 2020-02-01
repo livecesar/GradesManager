@@ -71,7 +71,7 @@
     <Build Include="DBO\StoredProcedured\sp_AllStudentsGradesPerCourse.sql" />
   </ItemGroup>
   <ItemGroup>
-    <RefactorLog Include="DBO\PublishLocations\GradeManagerData.refactorlog" />
+    <RefactorLog Include="GradeManagerData.refactorlog" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DBO\PublishLocations\GradeManagerData.publish.xml" />
